@@ -1,0 +1,27 @@
+{
+  "name": "@code-convention/prettier-config",
+  "version": "0.0.0",
+  "description": "zcvfcat-prettier",
+  "homepage": "https://github.com/code-convention/prettier-config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/code-convention/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/code-convention/prettier-config/issues",
+    "email": "zcvfcat@gmail.com"
+  },
+  "keywords": [
+    "prettier-config",
+    "code-convention",
+    "zcvfcat"
+  ],
+  "scripts": {
+    "fix:prettier": "prettier --write \"**/*.*\""
+  },
+  "author": "zcvfcat zcvfcat@gmail.com (https://zcvfcat.github.io)",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^2.2.1"
+  }
+}
