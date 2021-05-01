@@ -16,13 +16,13 @@
     "code-convention",
     "zcvfcat"
   ],
+  "main": ".prettierrc.js",
   "scripts": {
     "fix:prettier": "prettier --write \"**/*.*\""
   },
   "author": "zcvfcat zcvfcat@gmail.com (https://zcvfcat.github.io)",
   "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "prettier": "^2.2.1"
   }
 }
